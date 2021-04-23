@@ -1,5 +1,7 @@
 # Intelligence...?
 
+[Click Here to Play](https://preyneyv.github.io/engl-1102-artifact-3/)
+
 _Intelligence...?_ was created as a thought experiment to explore what it takes for an artificial species to become "one of us". The "AI uprising" cliché is well-known, but rarely examined from the perspective of the robot. It's always "robot bad, human good", but we want to challenge that preconceived notion.
 
 > **Made by PSYK (/saɪk/).**
