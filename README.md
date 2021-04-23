@@ -4,9 +4,9 @@ _Intelligence...?_ was created as a thought experiment to explore what it takes 
 
 > Made by PSYK (/saɪk/).
 > 
-> Kenny Hoang (Storywriter)
-> Sun Graham (Illustrator)
-> Yoshiki Kakehi (Game Developer)
+> Kenny Hoang (Storywriter)  
+> Sun Graham (Illustrator)  
+> Yoshiki Kakehi (Game Developer)  
 > Pranav Nutalapati (Game Developer)
 
 ---
